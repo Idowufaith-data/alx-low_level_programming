@@ -12,7 +12,7 @@ void print_line(int n);
 void print_diagonal(int n);
 void print_square(int size);
 void print_triangle(int size);
-int prime_number(long int n);
+int is_prime(long int n);
 long int biggest_factor(long int a);
 void print_number(int n);
 int num_digits(int n);
